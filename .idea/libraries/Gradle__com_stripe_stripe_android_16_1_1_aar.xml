@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-android:16.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0.2/caches/transforms-3/c282012e800fb34fa7a6e1e46e56a910/transformed/jetified-stripe-android-16.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0.2/caches/transforms-3/c282012e800fb34fa7a6e1e46e56a910/transformed/jetified-stripe-android-16.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0.2/caches/transforms-3/c282012e800fb34fa7a6e1e46e56a910/transformed/jetified-stripe-android-16.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0.2/caches/modules-2/files-2.1/com.stripe/stripe-android/16.1.1/d37db0c31ec6b4b9d0a72f4731ef0abadbc29162/stripe-android-16.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0.2/caches/modules-2/files-2.1/com.stripe/stripe-android/16.1.1/35c3e0614b8b5062022a61e061f882fc8e60eecb/stripe-android-16.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
